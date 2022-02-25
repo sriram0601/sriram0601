@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sriram0601
+- 👋 Hi, I’m Ramachandran
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Data science with python 
 - 💞️ I’m looking to collaborate on new bee on data science
